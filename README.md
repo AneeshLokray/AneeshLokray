@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AneeshLokray](https://github.com/AneeshLokray)
 
+- 💬 Ask me about **HTML, CSS, JavaScript, Machine Learning**
+
 - 📫 How to reach me **aneeshlokray007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vOGhs7cNRvVal4hiU_BgHCOBsNRuzEco/view?usp=sharing](https://drive.google.com/file/d/1vOGhs7cNRvVal4hiU_BgHCOBsNRuzEco/view?usp=sharing)
